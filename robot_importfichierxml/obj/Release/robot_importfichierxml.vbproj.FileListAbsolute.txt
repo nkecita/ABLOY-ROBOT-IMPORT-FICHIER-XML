@@ -1,0 +1,9 @@
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\bin\Release\robot_importfichierxml.exe
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\bin\Release\robot_importfichierxml.pdb
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\bin\Release\robot_importfichierxml.xml
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\obj\Release\ResolveAssemblyReference.cache
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\obj\Release\robot_importfichierxml.Resources.resources
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\obj\Release\robot_importfichierxml.vbproj.GenerateResource.Cache
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\obj\Release\robot_importfichierxml.exe
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\obj\Release\robot_importfichierxml.xml
+C:\temp\aa\Import\robot_importfichierxml\robot_importfichierxml\obj\Release\robot_importfichierxml.pdb
